@@ -22,9 +22,6 @@
 </button>
 ```
 
-> [!NOTE]
-> XTML (eXtramural Templating Markup Language) is intended to be a hopeful W3C candidate recommendation for HTML6
-
 ### Core Benefits
 
 - **Language Choice**<br />
@@ -35,6 +32,9 @@
   Bidirectional protocols enable local-first synchronizations and apps continue to function even without a network connection.
 - **Zero-Cost Dependencies**<br />
   When applications execute remotely, binaries can grow to gigabytes in size without impacting user experience because they are never transferred to the browser.
+
+> [!NOTE]
+> XTML (eXtramural Templating Markup Language) is intended to be a hopeful W3C candidate recommendation for HTML6
 
 ## SDKs
 
