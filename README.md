@@ -1,7 +1,7 @@
 <br /><br /><br /><br />
 <picture>
 	<source srcset="https://brand.web4.dev/xtml/header/dark.svg" media="(prefers-color-scheme: dark)">
-	<img src="https://brand.web4.dev/sdks/xtml/header/dark.svg">
+	<img src="https://brand.web4.dev/xtml/header/light.svg">
 </picture>
 <br /><br /><br /><br />
 
